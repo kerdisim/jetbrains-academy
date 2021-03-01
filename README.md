@@ -1,2 +1,3 @@
-# jetbrains-academy
-JetBrains Academy solutions
+# JetBrains Academy solutions
+
+https://hyperskill.org/
